@@ -1,6 +1,8 @@
 # Final Project: Customer Sentiment Analysis Pipeline
-**By: Nitish Bhardwaj** 
-**College: Amity University, Noida**
+
+By: Nitish Bhardwaj 
+
+College: Amity University, Noida
 
 An end-to-end production-grade data engineering pipeline built using the **Medallion Architecture (Bronze → Silver → Gold)**. This project streams and processes customer call center logs alongside historical customer account data to generate live business KPIs and sentiment tracking metrics.
 
